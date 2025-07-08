@@ -1,3 +1,14 @@
+## 🚀 Project Summary
+
+Raw totals don’t tell the full story. In this project, I engineered engagement features from user activity data to better capture *momentum*—not just volume.
+
+Includes:
+- Feature: `checkins_per_day` (normalized for task duration)
+- Descriptive stats, hypothesis testing, and regression
+- Clean EDA notebook with reproducible steps
+- Visual insights + edge case handling
+
+
 # 🧠 Momentum Metrics: Understanding Real User Engagement
 
 **Status:** Complete  
